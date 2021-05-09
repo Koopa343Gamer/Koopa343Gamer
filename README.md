@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Koopa343Gamer
-- 👀 I’m interested in Informatic
-- 🌱 I’m currently learning Visual Studio
+- 👀 I’m interested in: Informatic
+- 🌱 I’m currently learning: Visual Studio
 - 💞️ I’m looking to collaborate on: N/A
 - 📫 How to reach me: N/A
